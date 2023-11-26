@@ -1,3 +1,5 @@
+package com.alura;
+
 class Conta {
     double saldo;
     int agencia;
