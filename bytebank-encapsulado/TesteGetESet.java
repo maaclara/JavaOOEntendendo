@@ -24,7 +24,6 @@ public class TestaGetESet {
         System.out.println(titularDaConta); 
         System.out.println(paulo);
         System.out.println(conta.getTitular());
-        
         //Ao executarmos a aplicação, veremos que todas as referências,
         // são para o mesmo endereço de memória Cliente@...
 	}
